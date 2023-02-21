@@ -1,0 +1,14 @@
+D:\My projects\OOP\ComputerClub\ComputerClub\bin\Debug\netcoreapp3.1\ComputerClub.exe
+D:\My projects\OOP\ComputerClub\ComputerClub\bin\Debug\netcoreapp3.1\ComputerClub.deps.json
+D:\My projects\OOP\ComputerClub\ComputerClub\bin\Debug\netcoreapp3.1\ComputerClub.runtimeconfig.json
+D:\My projects\OOP\ComputerClub\ComputerClub\bin\Debug\netcoreapp3.1\ComputerClub.runtimeconfig.dev.json
+D:\My projects\OOP\ComputerClub\ComputerClub\bin\Debug\netcoreapp3.1\ComputerClub.dll
+D:\My projects\OOP\ComputerClub\ComputerClub\bin\Debug\netcoreapp3.1\ComputerClub.pdb
+D:\My projects\OOP\ComputerClub\ComputerClub\obj\Debug\netcoreapp3.1\ComputerClub.csproj.AssemblyReference.cache
+D:\My projects\OOP\ComputerClub\ComputerClub\obj\Debug\netcoreapp3.1\ComputerClub.GeneratedMSBuildEditorConfig.editorconfig
+D:\My projects\OOP\ComputerClub\ComputerClub\obj\Debug\netcoreapp3.1\ComputerClub.AssemblyInfoInputs.cache
+D:\My projects\OOP\ComputerClub\ComputerClub\obj\Debug\netcoreapp3.1\ComputerClub.AssemblyInfo.cs
+D:\My projects\OOP\ComputerClub\ComputerClub\obj\Debug\netcoreapp3.1\ComputerClub.csproj.CoreCompileInputs.cache
+D:\My projects\OOP\ComputerClub\ComputerClub\obj\Debug\netcoreapp3.1\ComputerClub.dll
+D:\My projects\OOP\ComputerClub\ComputerClub\obj\Debug\netcoreapp3.1\ComputerClub.pdb
+D:\My projects\OOP\ComputerClub\ComputerClub\obj\Debug\netcoreapp3.1\ComputerClub.genruntimeconfig.cache
